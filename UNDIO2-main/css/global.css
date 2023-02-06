@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+:root {
+  --default-size: 2rem;
+  --main-color: #01bcff;
+  --fs-desc: 1.8rem;
+  --transition: all 0.3s;
+}
+ 
+ 
+
+html {
+  font-size: 62.5%;
+}
+.logos,
+ul,
+.login-lang,
+.hero-text {
+  z-index: 10;
+}
+.hero-text,
+.register-product,
+.scroll-down,
+.overlay {
+  position: absolute;
+}
+
+ 

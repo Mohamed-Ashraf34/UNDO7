@@ -1,0 +1,82 @@
+input.form-control {
+  height: 5rem;
+  padding-left: 3rem;
+}
+
+.row {
+  font-size: 1.2rem;
+  padding: 8rem;
+   
+}
+
+.col {
+  border-radius: 0%;
+}
+
+textarea#exampleFormControlTextarea1 {
+  padding-left: 3rem;
+  height: 20rem;
+}
+.col-6 {
+  padding: 1rem;
+}
+.form-control::placeholder {
+  color: #bbbbbb;
+}
+
+h1.New.Supplier.Registration {
+  font-size: 4rem;
+  font-weight: 700;
+  padding-bottom: 8rem;
+}
+select.form-select {
+  height: 5rem;
+  padding-bottom: -1em;
+  margin-top: 13px;
+  background-color: #e6e6e6;
+}
+
+.nom.col-6 {
+  display: flex;
+}
+
+.d-grid.gap-4.d-md-flex.justify-content-md-end {
+  padding-top: 5rem;
+}
+
+button.btn.btn-outline-info {
+  height: 3em;
+  font-size: 1em;
+  width: 8em;
+}
+
+.d-grid.gap-2.d-md-flex.justify-content-md-end {
+  padding-top: 8em;
+}
+
+.bto::placeholder {
+  color: #054479;
+}
+
+h2 {
+  color: #00bcff;
+  padding-bottom: 4em;
+  font-weight: bold;
+}
+
+button.btn.btn-outline-secondary {
+  width: 17em;
+  height: 6em;
+  margin: auto;
+}
+
+label.form-label {
+  line-height: 4em;
+}
+
+ 
+
+p {
+  margin-top: 6px;
+  margin-bottom: 1rem;
+}
